@@ -1,0 +1,43 @@
+body {
+    background-color: #fff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.columbo {
+    max-width: 400px;
+}
+
+.pics {
+    max-height: 400px;
+}
+
+.video {
+    height: 300px;
+}
+
+.question {
+    background-color: #90afc5;
+    color: #2a3132;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.columbo-text {
+    background-color: #fff;
+    color: #2a3132;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 2;
+    margin: 0;
+    text-align: center;
+}
